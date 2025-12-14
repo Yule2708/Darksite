@@ -71,3 +71,11 @@ li {
         height: 100px;
         object-fit: cover;
       }
+
+footer {
+  background: #1a1a1a; /* Fondo sombrío oscuro, sin gradiente para minimalismo */
+  color: #ffffff;
+  padding:  1%;  /* Más pequeño, padding reducido */
+  text-align: center;
+  border-top: 1px solid #333333; /* Línea sutil */
+}
