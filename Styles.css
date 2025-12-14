@@ -73,9 +73,9 @@ li {
       }
 
 footer {
-  background: #1a1a1a; /* Fondo sombrío oscuro, sin gradiente para minimalismo */
+  background: #0e0d0d; /* Fondo sombrío oscuro, sin gradiente para minimalismo */
   color: #ffffff;
   padding:  1%;  /* Más pequeño, padding reducido */
   text-align: center;
-  border-top: 1px solid #333333; /* Línea sutil */
+  border-top: 1px solid #0a0a0a; /* Línea sutil */
 }
